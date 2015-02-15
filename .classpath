@@ -64,6 +64,5 @@
 	<classpathentry kind="lib" path="/chapter10/war/WEB-INF/lib/struts2-core-2.3.4.1.jar"/>
 	<classpathentry kind="lib" path="/chapter10/war/WEB-INF/lib/struts2-spring-plugin-2.3.4.1.jar"/>
 	<classpathentry kind="lib" path="/chapter10/war/WEB-INF/lib/xwork-core-2.3.4.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/zhangxuej/.gradle/caches/modules-2/files-2.1/org.quartz-scheduler/quartz/1.7.3/608f46b027f96a3ac197df035d4d4f49a3d3a49d/quartz-1.7.3.jar" sourcepath="C:/Users/zhangxuej/.gradle/caches/modules-2/files-2.1/org.quartz-scheduler/quartz/1.7.3/120fad502ddce44ec78d7904771a47f4938a236b/quartz-1.7.3-sources.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
